@@ -3,10 +3,10 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 3.85.0</title>
+            <title>Version 7.85.0</title>
             <description>Minor updates and improvements.</description>
             <pubDate>Mon, 03 Oct 2022 10:35:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.allaboutrenew.aar_v3" sparkle:version="3.85.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.allaboutrenew.aar_v3" sparkle:version="7.85.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
